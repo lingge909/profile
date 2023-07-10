@@ -4,6 +4,8 @@
 -- Discord: https://discord.com/invite/Xb9B4Ny
 
 lvim.colorscheme = "neosolarized"
+vim.opt.relativenumber = true
+vim.opt.wrap = true
 
 lvim.plugins = {
   {
