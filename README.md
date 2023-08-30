@@ -1,2 +1,4 @@
 # wsl
 
+~/.local/profile
+
